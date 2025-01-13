@@ -1,4 +1,5 @@
 alpine
 sagikazarmark/dvwa
 acgpiano/sqli-labs
-cve-2019-17558_solr_1
+
+vulhub/solr:8.2.0
