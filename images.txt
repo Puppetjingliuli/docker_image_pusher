@@ -1,5 +1,4 @@
 alpine
 sagikazarmark/dvwa
 acgpiano/sqli-labs
-
-vulhub/solr:8.2.0
+vulhub/tomcat:8.0
